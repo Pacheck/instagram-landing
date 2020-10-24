@@ -1,2 +1,3 @@
 # instagram-landing
-landing page instagram
+
+Landing page instagram, responsive
